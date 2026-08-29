@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-cjs/
+coverage/
+*.tgz
+.env
+.env.*
+!.env.example
+.DS_Store
+docs/releasing.md
