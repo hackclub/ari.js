@@ -1,6 +1,6 @@
 {
 	"name": "@hackclub/ari",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Official JavaScript and TypeScript SDK for Ari program integrations",
 	"homepage": "https://github.com/hackclub/ari.js#readme",
 	"repository": {
