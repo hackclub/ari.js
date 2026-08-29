@@ -3,6 +3,9 @@
 		"target": "ES2022",
 		"module": "NodeNext",
 		"moduleResolution": "NodeNext",
+		"paths": {
+			"@hackclub/ari": ["./src/index.ts"]
+		},
 		"lib": ["ES2022", "DOM", "DOM.Iterable"],
 		"types": ["bun"],
 		"strict": true,
